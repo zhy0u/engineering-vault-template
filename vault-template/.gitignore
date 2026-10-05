@@ -1,0 +1,20 @@
+# Obsidian 的窗口状态和缓存，每次开关窗口都会变
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/obsidian-git/data.json.bak
+
+# 回收站
+.trash/
+
+# 敏感或保密内容，不入库
+_local/
+
+# 系统与工具产生的文件
+.DS_Store
+Thumbs.db
+desktop.ini
+__pycache__/
+*.pyc
+*.tmp
+~$*
